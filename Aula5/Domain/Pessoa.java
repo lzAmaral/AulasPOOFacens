@@ -15,8 +15,7 @@ public class Pessoa {
     }
 
     public Pessoa (String nome, int idade, String livro, int diasDevolucao) {
-        this.nome = nome;
-        this.idade = idade;
+        this(nome, idade);
         this.livro = livro;
         this.diasDevolucao = diasDevolucao;
     }
@@ -40,6 +39,7 @@ public class Pessoa {
             System.out.println("Nenhum livro emprestado.");
         }
     }
+    
 
 
 
