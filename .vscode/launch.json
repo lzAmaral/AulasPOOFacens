@@ -1,0 +1,169 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PessoaTest01",
+            "request": "launch",
+            "mainClass": "Aula5.Test.PessoaTest01",
+            "projectName": "POO_cc896062"
+        },
+        {
+            "type": "java",
+            "name": "Menu",
+            "request": "launch",
+            "mainClass": "DesafioAnimal.Menu",
+            "projectName": "POO_cc896062"
+        },
+        {
+            "type": "java",
+            "name": "Main_Animal",
+            "request": "launch",
+            "mainClass": "DesafioAnimal.Main_Animal",
+            "projectName": "POO_cc896062"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "DesafioAnimal.Main",
+            "projectName": "POO_cc896062"
+        },
+        {
+            "type": "java",
+            "name": "PessoaTest",
+            "request": "launch",
+            "mainClass": "Aula4.PessoaTest",
+            "projectName": "POO_cc896062"
+        },
+        {
+            "type": "java",
+            "name": "Main_Conta",
+            "request": "launch",
+            "mainClass": "Aula3.Main_Conta",
+            "projectName": "POO_cc896062"
+        },
+        {
+            "type": "java",
+            "name": "Main_Aluno",
+            "request": "launch",
+            "mainClass": "Aula3.Main_Aluno",
+            "projectName": "POO_cc896062"
+        },
+        {
+            "type": "java",
+            "name": "AtvRevisao",
+            "request": "launch",
+            "mainClass": "Aula2.AtvRevisao",
+            "projectName": "POO_cc896062"
+        },
+        {
+            "type": "java",
+            "name": "AtvFun4",
+            "request": "launch",
+            "mainClass": "Aula2.AtvFun4",
+            "projectName": "POO_cc896062"
+        },
+        {
+            "type": "java",
+            "name": "AtvFun3",
+            "request": "launch",
+            "mainClass": "Aula2.AtvFun3",
+            "projectName": "POO_cc896062"
+        },
+        {
+            "type": "java",
+            "name": "AtvFun2",
+            "request": "launch",
+            "mainClass": "Aula2.AtvFun2",
+            "projectName": "POO_cc896062"
+        },
+        {
+            "type": "java",
+            "name": "AtvFun1",
+            "request": "launch",
+            "mainClass": "Aula2.AtvFun1",
+            "projectName": "POO_cc896062"
+        },
+        {
+            "type": "java",
+            "name": "Funcao2",
+            "request": "launch",
+            "mainClass": "Aula2.Funcao2",
+            "projectName": "POO_cc896062"
+        },
+        {
+            "type": "java",
+            "name": "Funcao",
+            "request": "launch",
+            "mainClass": "Aula2.Funcao",
+            "projectName": "POO_cc896062"
+        },
+        {
+            "type": "java",
+            "name": "Atv3",
+            "request": "launch",
+            "mainClass": "Tarefas.Atv3",
+            "projectName": "POO_cc896062"
+        },
+        {
+            "type": "java",
+            "name": "Ex3",
+            "request": "launch",
+            "mainClass": "Tarefas.Ex3",
+            "projectName": "POO_cc896062"
+        },
+        {
+            "type": "java",
+            "name": "atv5",
+            "request": "launch",
+            "mainClass": "Tarefas.atv5",
+            "projectName": "POO_cc896062"
+        },
+        {
+            "type": "java",
+            "name": "Tarefa2",
+            "request": "launch",
+            "mainClass": "Tarefas.Tarefa2",
+            "projectName": "POO_cc896062"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "ex1",
+            "request": "launch",
+            "mainClass": "Revisão.ex1",
+            "projectName": "POO_cc896062"
+        },
+        {
+            "type": "java",
+            "name": "ex2",
+            "request": "launch",
+            "mainClass": "Revisão.ex2",
+            "projectName": "POO_cc896062"
+        },
+        {
+            "type": "java",
+            "name": "ex3",
+            "request": "launch",
+            "mainClass": "Revisão.ex3",
+            "projectName": "POO_cc896062"
+        },
+        {
+            "type": "java",
+            "name": "Tarefa1",
+            "request": "launch",
+            "mainClass": "Tarefas.Tarefa1",
+            "projectName": "POO_cc896062"
+        }
+    ]
+}
